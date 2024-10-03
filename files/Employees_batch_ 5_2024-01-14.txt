@@ -1,0 +1,7 @@
+Employee(id=82, name=Benjamin Miller, department=Engineering, salary=78000.0, hiredate=Sun Jan 14 00:00:00 IST 2024)
+Employee(id=84, name=Emma White, department=Marketing, salary=61000.0, hiredate=Sun Jan 14 00:00:00 IST 2024)
+Employee(id=86, name=Lily Thomas, department=Sales, salary=55000.0, hiredate=Sun Jan 14 00:00:00 IST 2024)
+Employee(id=88, name=Arianna Clark, department=Sales, salary=56000.0, hiredate=Sun Jan 14 00:00:00 IST 2024)
+Employee(id=90, name=Mason Brown, department=Engineering, salary=77000.0, hiredate=Sun Jan 14 00:00:00 IST 2024)
+Employee(id=92, name=Emma Johnson, department=Marketing, salary=64000.0, hiredate=Sun Jan 14 00:00:00 IST 2024)
+Employee(id=94, name=Ava Taylor, department=Engineering, salary=76000.0, hiredate=Sun Jan 14 00:00:00 IST 2024)
